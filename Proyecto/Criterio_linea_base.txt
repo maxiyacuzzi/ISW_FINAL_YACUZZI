@@ -1,0 +1,1 @@
+Se define como criterio de linea base la finalizacion de un sprint.
